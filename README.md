@@ -1,1 +1,1 @@
-### List of interesting resources disovered
+### List of interesting resources discovered
