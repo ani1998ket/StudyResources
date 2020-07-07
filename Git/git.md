@@ -9,4 +9,5 @@
 
 > Extras
 
-* http://ryanheathcote.com/git/build-your-own-vcs 
+* [Build Your Own]( http://ryanheathcote.com/git/build-your-own-vcs )
+* [ Linux Torvalds Talk ](https://www.youtube.com/watch?v=4XpnKHJAok8 )
