@@ -10,6 +10,7 @@
 * [ Beej's Guide ](https://beej.us/guide/bgipc/html/multi/index.html)
 * [ Advanced BSD ]( https://docs.freebsd.org/44doc/psd/21.ipc/paper.pdf )
 * [ MIT OCW ]( https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/MIT6_087IAP10_lec14.pdf )
+* [ Easy Example using sockets ](https://ruslanspivak.com/lsbaws-part3/ )
 
 > PSDs
 
