@@ -1,7 +1,8 @@
 ## Deep learning
 
 ---
-* [Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1&ab_channel=StanfordUniversitySchoolofEngineering)
+* [Stanford CNN](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=1&ab_channel=StanfordUniversitySchoolofEngineering)
+* [Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 * [MIT](http://introtodeeplearning.com/)
 
 
